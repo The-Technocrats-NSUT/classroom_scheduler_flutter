@@ -1,20 +1,20 @@
-# Classroom Scheduler 
+# Classroom Scheduler
 ## An app that lets you have that well-deserved rest in between classes
 
-<p align="center"> <img src="https://raw.githubusercontent.com/aryasoni98/classroom_scheduler_flutter/main/classroom_scheduler.png" alt="classroom_scheduler" /> </p>
+<p align="center"> <img src="#" alt="classroom_scheduler" /> </p>
 
-## ✨  Introduction 
+## ✨  Introduction
 
 A beginner level app development project with a practical utility. The app lets one chosen student amongst the class students (like a class representative) create a room/hub for that class. That person will share a unique code which other students can use to join the hub. The CR(s) will have the admin rights to kick any unauthorized student who enters the hub using the code. All the participants will have to sign up using an email id (most probably their college/university email id). The CR will enter the time-table for the entire week and the contents will have an expiration date (flexible). An alarm clock will ring 5 mins before every scheduled class. The classes will be updated on the participants’ google calendar as well. The admins (CRs) will have the feature to put on important notifications (like out of the way scheduled classes) which will also ring the alarm to alert the rest of the participants.
 
-## ✨ Requirements 
+## ✨ Requirements
 
 * Any Operating System (ie. MacOS X, Linux, Windows)
 * Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
 * A little knowledge of Dart and Flutter
 * A brain to think 🤓🤓
 
-## How to contribute to this project 
+## How to contribute to this project
 
 ### Getting started
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
@@ -52,6 +52,6 @@ A few resources to get you started if this is your first Flutter project:
 - [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
+For help getting started with Flutter, view our
+[online documentation](https://flutter.io/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
