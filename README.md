@@ -1,5 +1,5 @@
 # Classroom Scheduler
-## An app that lets you have that well-deserved rest in between classes
+### An app that lets you have that well-deserved rest in between classes
 
 <p align="center"> <img src="./image/classroom_scheduler.png" alt="classroom_scheduler" /> </p>
 
