@@ -21,7 +21,7 @@ A beginner level app development project with a practical utility. The app lets 
 * Clone your fork down to your local machine
 
 ```markdown
-git clone git@github.com:aryasoni98/classroom_scheduler_flutter.git
+git clone git@github.com:The-Technocrats-NSUT/classroom_scheduler_flutter.git
 ```
 
 * Create a branch
